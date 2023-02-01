@@ -6,7 +6,7 @@
 
 **The Audience**: The results will be presented to the Marketing and Analytics team for use and distribution to the medical teams and the surrounding public.
 
-**The Data**: Dataset from the CDC taken from a nationwide telephone survey in 2020 about US residents’ health status
+**The Data**: Dataset from the CDC taken from a nationwide telephone survey in 2020 about US residents’ health status.  The data included 401,958 rows and 279 columns, but was reduced to 18.  The reduced data can be found on [Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease).
 
 **The Modeling Response**: heart disease = 1, no heart disease = 0
 
