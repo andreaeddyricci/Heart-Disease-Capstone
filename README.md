@@ -13,3 +13,13 @@
 **The Model**: Binary supervised classification using Naive Briggs with a Recall score of 70% and ROC AUC score of 82%
 
 **The Deliverables**: Jupyter notebooks of data wrangling through modeling, a final report, and a presentation
+
+
+## Notebooks
+1. Heart Disease Data Wrangling
+2. Heart Disease EDA
+3. Heart Disease Pre-processing and Modeling
+
+## Reports
+
+## Presentation
