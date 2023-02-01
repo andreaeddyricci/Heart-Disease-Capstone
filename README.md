@@ -10,7 +10,7 @@
 
 **The Modeling Response**: heart disease = 1, no heart disease = 0
 
-**The Model**: Binary supervised classification using Naive Briggs with a Recall score of 70% and ROC AUC score of 82%
+**The Model**: Binary supervised classification using Naive Bayes with a Recall score of 70% and ROC AUC score of 82%
 
 **The Deliverables**: Jupyter notebooks of data wrangling through modeling, a final report, and a presentation
 
@@ -21,5 +21,5 @@
 3. Heart Disease Pre-processing and Modeling
 
 ## Reports
-
-## Presentation
+1. Final Report
+2. Model Metrics
